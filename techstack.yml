@@ -1,7 +1,8 @@
 repo_name: akasaa101/The-Collection
 report_id: f64610064f9a5de3016e0e05a7ad684e
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-28T08:44:30+00:00'
+timestamp: '2024-01-05T08:32:01+00:00'
 requested_by: yatt-ze
 provider: github
 branch: master
@@ -17,9 +18,9 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
-  detection_source_url: github.com/akasaa101/The-Collection/blob/master/Source Codes/Golden
-    Eye/Golden Eye/GoldenEye Remote Administration Tool/GoldenEye Licensing Server/GoldenEye
-    Licensing Server.csproj
+  detection_source_url: https://github.com/akasaa101/The-Collection/blob/master/Source
+    Codes/Golden Eye/Golden Eye/GoldenEye Remote Administration Tool/GoldenEye Licensing
+    Server/GoldenEye Licensing Server.csproj
   detection_source: Source Codes/Golden Eye/Golden Eye/GoldenEye Remote Administration
     Tool/GoldenEye Licensing Server/GoldenEye Licensing Server.csproj
   last_updated_by: yattaze
@@ -33,6 +34,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/akasaa101/The-Collection
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -42,6 +44,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/akasaa101/The-Collection
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -52,6 +55,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/akasaa101/The-Collection
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -64,9 +68,9 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
-  detection_source_url: github.com/akasaa101/The-Collection/blob/master/Source Codes/Golden
-    Eye/Golden Eye/GoldenEye Remote Administration Tool/GoldenEye Licensing Server/GoldenEye
-    Licensing Server.csproj
+  detection_source_url: https://github.com/akasaa101/The-Collection/blob/master/Source
+    Codes/Golden Eye/Golden Eye/GoldenEye Remote Administration Tool/GoldenEye Licensing
+    Server/GoldenEye Licensing Server.csproj
   detection_source: Source Codes/Golden Eye/Golden Eye/GoldenEye Remote Administration
     Tool/GoldenEye Licensing Server/GoldenEye Licensing Server.csproj
   last_updated_by: yattaze
@@ -79,6 +83,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/akasaa101/The-Collection
   detection_source: Repo Metadata
 - name: Visual Studio
   description: State-of-the-art tools and services that you can use to create great
@@ -89,6 +94,9 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/akasaa101/The-Collection/blob/master/Source
+    Codes/Golden Eye/Golden Eye/GoldenEye Remote Administration Tool/GoldenEye Remote
+    Administration Tool.sln
   detection_source: Source Codes/Golden Eye/Golden Eye/GoldenEye Remote Administration
     Tool/GoldenEye Remote Administration Tool.sln
   last_updated_by: yattaze
@@ -99,6 +107,8 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/akasaa101/The-Collection/blob/master/Source
+    Codes/Golden Eye/Golden Eye/YouTube/First Demonstration/First Demonstration.html
   detection_source: Source Codes/Golden Eye/Golden Eye/YouTube/First Demonstration/First
     Demonstration.html
   last_updated_by: yattaze
